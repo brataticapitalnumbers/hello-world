@@ -11,6 +11,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=5.3.0",
+        "vendor/package": "1.*",
+        "vendor/package2": "^2.0.3"
     },
     "autoload": {
         "psr-0": {
