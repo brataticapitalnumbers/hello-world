@@ -74,6 +74,8 @@ paste the following code.
 	Username: brataticapitalnumbers
 	Password: brataticn@987
 
+
+https://github.com/brataticapitalnumbers/hello-world
 	[
 
 
@@ -115,6 +117,8 @@ use --cached to keep the file, or -f to force removal
 	URL: https://packagist.org
 	Username: brataticapitalnumbers
 	Password: brataticn@987
+	https://packagist.org/packages/brataticapitalnumbers/hello-world
+
 
 submit the "https://github.com/brataticapitalnumbers/helloworld.git" repository to packagelist.org
 
