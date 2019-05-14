@@ -94,27 +94,42 @@ paste the following code.
 
 8) Go to Github and create a new public repo called “helloworld”, start the Git project inside your root dir and push it:
 	
-	
-	
-
-8) Sending to Packagist.org
-
-
 	git init 
 	git add . 
 	git commit -m "First commit" 
 	git remote add origin https://github.com/brataticapitalnumbers/helloworld.git 
 	git push origin master
 
-
-[to remove originin you can use the command
+	[to remove originin you can use the command
 	git remote rm origin
-
-]
-
 git rm -r --cached *                # delete everything
 
 use --cached to keep the file, or -f to force removal
+
+]
+
+
+8) Sending to Packagist.org
+
+
+	URL: https://packagist.org
+	Username: brataticapitalnumbers
+	Password: brataticn@987
+
+submit the "https://github.com/brataticapitalnumbers/helloworld.git" repository to packagelist.org
+
+
+[InvalidArgumentException]                                                   
+  Could not find package at any version for  
+   your minimum-stability (stable). Check the package spelling or your minimu  
+  m-stability 
+
+
+
+	
+
+
+
 
 
 
